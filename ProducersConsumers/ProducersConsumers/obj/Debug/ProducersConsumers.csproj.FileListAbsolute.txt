@@ -1,0 +1,5 @@
+C:\Users\vlad8\RiderProjects\ProducersConsumers\ProducersConsumers\bin\Debug\ProducersConsumers.exe
+C:\Users\vlad8\RiderProjects\ProducersConsumers\ProducersConsumers\bin\Debug\ProducersConsumers.pdb
+C:\Users\vlad8\RiderProjects\ProducersConsumers\ProducersConsumers\obj\Debug\ProducersConsumers.csprojAssemblyReference.cache
+C:\Users\vlad8\RiderProjects\ProducersConsumers\ProducersConsumers\obj\Debug\ProducersConsumers.exe
+C:\Users\vlad8\RiderProjects\ProducersConsumers\ProducersConsumers\obj\Debug\ProducersConsumers.pdb

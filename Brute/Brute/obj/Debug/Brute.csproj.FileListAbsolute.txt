@@ -1,0 +1,5 @@
+C:\Users\vlad8\RiderProjects\Brute\Brute\bin\Debug\Brute.exe
+C:\Users\vlad8\RiderProjects\Brute\Brute\bin\Debug\Brute.pdb
+C:\Users\vlad8\RiderProjects\Brute\Brute\obj\Debug\Brute.csprojAssemblyReference.cache
+C:\Users\vlad8\RiderProjects\Brute\Brute\obj\Debug\Brute.exe
+C:\Users\vlad8\RiderProjects\Brute\Brute\obj\Debug\Brute.pdb
